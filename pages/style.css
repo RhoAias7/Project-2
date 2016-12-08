@@ -1,0 +1,102 @@
+/* styles.css */
+
+html,
+body{
+	height: 100%;
+	text-align:center;
+	background: url('img/V.jpg');
+	
+}
+.carousel-inner{
+	
+}
+.container{
+	font-family: Rockwell,"Courier Bold",Courier,Georgia,Times,"Times New Roman",serif;
+	background-attachment:fixed;
+	color:#e6005c;
+	font-weight:bold;
+	text-shadow: 2px 2px black;
+}
+.btn{
+	color:black;
+	background:#e6005c;
+	box-shadow: 2px 2px black;
+	
+}
+
+/* cover */
+
+#cover {
+	background: #222 url('img/Vi.jpg') center center no-repeat;
+	background-size: cover;
+	color: white;
+	height: 87%;
+	text-align:center;
+	display:flex;
+	align-items: center;
+	background-attachment:fixed;
+	margin-bottom:0px;
+	color: #e6005c;
+    padding-top: 90px;
+    margin-top: -60px;
+    padding-bottom: 20px;
+    transform: skewY(-3deg);
+    background-color: #e6005c;
+	
+}
+
+h4{
+	color:#143db8;
+}
+.card-text{
+	color:black;
+}
+.nav-link{
+	color:black;
+}
+#cover-caption{
+	width:100%;
+}
+
+.navbar{
+	color: black;
+    padding-top: 10px;
+    margin-top: -60px;
+    padding-bottom: 20px;
+    transform: skewY(-3deg);
+    background-color: #e6005c;
+	border: 5px solid black;
+	
+}
+
+#carousel{
+    margin-top: 100px;
+    margin-bottom: -70px;
+    height: 260px;
+	width:100%;
+    background-color: #143db8;
+	border: 5px solid black;
+}
+
+#voi{
+    
+    padding-top:35px;
+	
+}
+
+.carousel-inner{
+	width:100%;
+}
+.card-group{
+	border: 5px solid black;
+}
+h3{
+	color:#143db8;
+	font-family: Rockwell;
+	font-size:250%;
+	text-shadow: 2px 2px black;
+	padding-top:60px;
+}
+#BAElol{
+	font-size:150%;
+}
